@@ -1,0 +1,7 @@
+
+body {
+    background-image: url('https://st4.depositphotos.com/1020618/28685/i/450/depositphotos_286856426-stock-photo-cinema-concept-of-vintage-film.jpg');
+    background-size: cover; /* This makes the image cover the entire screen */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* This ensures the background doesn't scroll with the content */
+}
