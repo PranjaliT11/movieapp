@@ -2,7 +2,7 @@
     height: 100vh;
     display: flex;
     justify-content: space-between;
-    background-image: url("https://t4.ftcdn.net/jpg/02/86/32/31/360_F_286323187_mDk3N4nGDaPkUmhNcdBe3RjSOfKqx4nZ.jpg");
+    background-image: url("https://media.istockphoto.com/id/1292150773/vector/realistic-3d-film-strips-in-perspective-modern-cinema-background-template-poster-for-cinema.jpg?s=612x612&w=0&k=20&c=dU-NREO0miQ20cFSQkps2Aqixoo29b0sL54lBKb8cxU=");
     background-repeat: no-repeat;
     background-size: cover; 
     background-position: center;
@@ -32,6 +32,6 @@
     
 }
 .tablecolour {
-    background-color: aliceblue;
+    background-color: rgba(240, 248, 255, 0.836);
 
 }

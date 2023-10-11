@@ -12,8 +12,8 @@
     justify-content: space-between;
     /* align-items: start; */
     width: 100%;
-    height: 120px;
-    background-Size: cover; 
+    height: auto;
+    background-Size: auto; 
     background-Position: center;  
     /* margin-bottom: 80px; */
     border-radius: 5px;

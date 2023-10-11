@@ -1,13 +1,13 @@
 
 
 .plan{
-    background-color: rgba(247, 157, 134, 0.5); 
+    background-color: rgba(238, 114, 186, 0.5); 
     
 }
 
 .timings{
     display: flex;
-    background-color: rgba(247, 157, 134, 0.5); 
+    background-color: rgba(212, 117, 197, 0.5); 
 }
 
 .panel{
@@ -27,16 +27,16 @@
     display: flex;
     align-items: center;
     height: 70%;
-    border-bottom: 1px solid #d6ba3f;
+    border-bottom: 1px solid #a9d63f;
 }
 
 .name{
     height: 70%;
     /* padding: 30px; */
-    color: white;
+    color: rgb(166, 252, 247);
     justify-content: space-between;
-    border-right: 1px solid #d6ba3f;
-    border-bottom: 1px solid #d6ba3f;
+    border-right: 1px solid #dbf896;
+    border-bottom: 1px solid #ceee9a;
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
@@ -44,7 +44,7 @@
     font-weight: 600;
 }
 .seatPlan{
-    background-color: rgba(247, 157, 134, 0.5); 
+    background-color: rgba(134, 247, 223, 0.5); 
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -62,7 +62,7 @@
 .silverPlus{
     margin-top: 5px;
     width: 350px;
-    color: #edf3f1;
+    color: #ceeee3;
     text-align: center;
 }
 

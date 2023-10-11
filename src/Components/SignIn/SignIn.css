@@ -3,7 +3,7 @@
     height: 100vh;
     display: flex;
     justify-content: center;
-    background-image: url("https://i.pinimg.com/originals/be/65/5f/be655f0bfa4b853e0ac2482168715e55.jpg");
+    background-image: url("https://img.freepik.com/free-photo/movie-background-collage_23-2149876013.jpg?w=740&t=st=1696931631~exp=1696932231~hmac=57d1e63c0f882c3e6f096664774668792e5bf1c720f77dcc604137e28f110c5d");
     background-repeat: no-repeat;
     background-size: cover; 
     background-position: center;  
@@ -13,13 +13,13 @@
     width: 500px;
     margin-top: 80px;
     margin-bottom: 80px;
-    background-color: rgba(68, 90, 153, 0.051);
+    background-color: rgba(18, 62, 184, 0.051);
     padding: 60px 45px;
     box-shadow: 0px 0px 29.4px 0.6px rgb(0 0 0 / 50%);
 }
 
 .welcomeText{
-    color: white;
+    color: rgb(245, 35, 35);
     font-size: 18px;
 }
 
@@ -39,7 +39,7 @@
     text-align: left;
 }
 
-.form-control::placeholder {color:#999;}
+.form-control::placeholder {color:#e20909;}
 
 .btn-wrapper{
     display: flex;
@@ -55,7 +55,7 @@
     border-radius:0%;
 }
 .loginText{
-    color: white;
+    color: rgb(231, 12, 12);
 }
 
 input::placeholder{

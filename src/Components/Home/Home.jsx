@@ -6,7 +6,7 @@ import MovieCard from '../MovieCard/MovieCard'
 // import { Banner } from "../Banner/Banner";
 // import { MovieCard } from "../MovieCard/MovieCard";
 // import { SearchPanel } from "../SearchPanel/SearchPanel";
-import 'bootstrap/dist/js/bootstrap.min.js';
+import "bootstrap/dist/css/bootstrap.css"
 
 import { Link } from "react-router-dom";
 
